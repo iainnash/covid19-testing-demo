@@ -9,6 +9,11 @@ Key components of the site include:
 - A recommendation engine to recommend testing window slots at each testing site
 - A confirmation page to surface any critical information to prepare the user for testing
 
+
+## Quickstart
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/iainnash/covid19-testing)
+
 ## Getting Started
 
 * Install [Node.js](https://nodejs.org/en/) >= 8.9.4 and npm >= 5.6.0

@@ -1,0 +1,5 @@
+[template.environment]
+  GOOGLE_MAPS_API_KEY = "Change me to your Google Maps API Key"
+[build]
+  command = "npm run build"
+  publish = "dist"
