@@ -15,7 +15,7 @@ Key components of the site include:
     * Check your node version with `node -v`
     * Check your npm version with `npm -v`
 * Clone this repo and change directory to the cloned repo
-* Add your Google Maps API key to `javascript/test-site-finder/webpack.config.babel.js`
+* Add your Google Maps API key to a file named `.env` (see `example.env`) or pass in the command line as `GOOGLE_MAPS_API_KEY`.
     * Replace `REPLACE_WITH_GOOGLE_MAPS_API_KEY` with yours
 * Install dependencies with `npm install`
 * Run webpack dev with `npm run webpack-dev`
